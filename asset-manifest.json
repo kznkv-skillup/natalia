@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/natalia/static/css/main.5762b981.chunk.css",
-    "main.js": "/natalia/static/js/main.e124e2bf.chunk.js",
-    "main.js.map": "/natalia/static/js/main.e124e2bf.chunk.js.map",
+    "main.js": "/natalia/static/js/main.458aff88.chunk.js",
+    "main.js.map": "/natalia/static/js/main.458aff88.chunk.js.map",
     "runtime-main.js": "/natalia/static/js/runtime-main.02dc69b6.js",
     "runtime-main.js.map": "/natalia/static/js/runtime-main.02dc69b6.js.map",
     "static/css/2.3ce95a4e.chunk.css": "/natalia/static/css/2.3ce95a4e.chunk.css",
     "static/js/2.ab39884e.chunk.js": "/natalia/static/js/2.ab39884e.chunk.js",
     "static/js/2.ab39884e.chunk.js.map": "/natalia/static/js/2.ab39884e.chunk.js.map",
     "index.html": "/natalia/index.html",
-    "precache-manifest.1d8619e68ee36fa4feb9dbb5474adb70.js": "/natalia/precache-manifest.1d8619e68ee36fa4feb9dbb5474adb70.js",
+    "precache-manifest.3ce12d573d52b65be392c59ce652d100.js": "/natalia/precache-manifest.3ce12d573d52b65be392c59ce652d100.js",
     "service-worker.js": "/natalia/service-worker.js",
     "static/css/2.3ce95a4e.chunk.css.map": "/natalia/static/css/2.3ce95a4e.chunk.css.map",
     "static/css/main.5762b981.chunk.css.map": "/natalia/static/css/main.5762b981.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.3ce95a4e.chunk.css",
     "static/js/2.ab39884e.chunk.js",
     "static/css/main.5762b981.chunk.css",
-    "static/js/main.e124e2bf.chunk.js"
+    "static/js/main.458aff88.chunk.js"
   ]
 }

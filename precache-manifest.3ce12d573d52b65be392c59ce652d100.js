@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "266b87d175cfd47bde041e822d5a7026",
+    "revision": "8a6857265d35f1142dd1ab78a698e84c",
     "url": "/natalia/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/natalia/static/css/2.3ce95a4e.chunk.css"
   },
   {
-    "revision": "b5d9e8d3bbcb070a5285",
+    "revision": "efe298242c96386f8779",
     "url": "/natalia/static/css/main.5762b981.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/natalia/static/js/2.ab39884e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b5d9e8d3bbcb070a5285",
-    "url": "/natalia/static/js/main.e124e2bf.chunk.js"
+    "revision": "efe298242c96386f8779",
+    "url": "/natalia/static/js/main.458aff88.chunk.js"
   },
   {
     "revision": "0f6ffed387c1494d15f3",

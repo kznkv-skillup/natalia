@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/natalia/precache-manifest.1d8619e68ee36fa4feb9dbb5474adb70.js"
+  "/natalia/precache-manifest.3ce12d573d52b65be392c59ce652d100.js"
 );
 
 self.addEventListener('message', (event) => {
